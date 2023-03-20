@@ -1,10 +1,10 @@
 name: fitted_text
 description: A FittedText Flutter package.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/prongbang/fitted_text
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.14.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
